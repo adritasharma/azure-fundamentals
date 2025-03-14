@@ -21,3 +21,9 @@ Stop spending money running and
 maintaining data centers
 "Go global" in minutes
 
+
+Microsoft Azure
+
+One of the leading cloud service providers
+Provides 200+ services
+Reliable, secure and cost-effective
